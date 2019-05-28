@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6357335095fb2b4db12e50e7b423e943"
+build_time: [1558949663, 38825000]
+inputs:
+  "/Users/admin/Desktop/IOS/JSONweatherAPI/JSONweatherAPI/Modle/Weather.swift": [1558890575, 0]
+  "/Users/admin/Desktop/IOS/JSONweatherAPI/JSONweatherAPI/3rd/AppDelegate.swift": [1558891728, 0]
+  "/Users/admin/Desktop/IOS/JSONweatherAPI/JSONweatherAPI/view/TemplateCollectionViewCell/TemplateCollectionViewCell.swift": [1558889072, 0]
+  "/Users/admin/Desktop/IOS/JSONweatherAPI/JSONweatherAPI/Controller/HomeViewController/HomeViewController.swift": [1558891728, 0]
